@@ -4,7 +4,6 @@ Created on 2018/3/15
 """
 import requests
 from pyquery import PyQuery as pq
-import re
 from openpyxl import Workbook, load_workbook
 
 
