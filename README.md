@@ -6,3 +6,5 @@
 解析使用`pyquery`
 
 存储Excel使用`openpyxl`
+
+共获取了50页广州二手房信息3000条
